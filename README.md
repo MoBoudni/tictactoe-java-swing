@@ -15,7 +15,7 @@ Dieses Spiel ist eine Erweiterung des traditionellen 3x3 Tic-Tac-Toe auf ein 4x4
 - **Unentschieden-Erkennung**: Spiel erkennt automatisch ein Unentschieden
 - **Responsive Design**: Ansprechende Farben und Schriftarten
 
-## 🛠 Technische Details
+##  Technische Details
 
 - **Sprache**: Java
 - **GUI Framework**: Java Swing
